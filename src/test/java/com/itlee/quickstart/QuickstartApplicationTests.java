@@ -59,7 +59,6 @@ class QuickstartApplicationTests {
 		System.out.println(pages.getSize());
 		System.out.println(pages.getTotal());
 		System.out.println(pages.getRecords());
-
 	}
 
 	@Test
