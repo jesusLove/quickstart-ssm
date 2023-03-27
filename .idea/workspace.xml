@@ -4,10 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3db71915-f100-4d3b-b7fa-ab141193353e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="3db71915-f100-4d3b-b7fa-ab141193353e" name="Changes" comment="aaa">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itlee/quickstart/QuickstartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itlee/quickstart/config/MPConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itlee/quickstart/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itlee/quickstart/controller/utils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itlee/quickstart/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itlee/quickstart/domin/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itlee/quickstart/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itlee/quickstart/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/itlee/quickstart/QuickstartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itlee/quickstart/QuickstartApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itlee/quickstart/config/MPConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itlee/quickstart/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itlee/quickstart/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itlee/quickstart/domin/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itlee/quickstart/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itlee/quickstart/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/itlee/quickstart/QuickstartApplicationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,8 +192,16 @@
       <workItem from="1679449147459" duration="671000" />
       <workItem from="1679463761152" duration="2932000" />
       <workItem from="1679704776036" duration="1747000" />
-      <workItem from="1679878242673" duration="447000" />
+      <workItem from="1679878242673" duration="600000" />
     </task>
+    <task id="LOCAL-00001" summary="aaa">
+      <created>1679878730277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679878730277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,5 +217,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
   </component>
 </project>
